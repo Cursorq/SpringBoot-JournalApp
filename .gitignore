@@ -1,0 +1,4 @@
+-e "application.properties\napplication.yml\n.env" 
+application.properties 
+application.yml 
+.env 
